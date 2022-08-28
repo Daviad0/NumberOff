@@ -1,0 +1,39 @@
+*{
+    font-family: "Anek Telugu";
+}
+body{
+    background-color: #32a868;
+    padding:40px;
+}
+
+
+.group{
+    background-color: #0d4024;
+    width:200px;
+    height: 200px;
+    border-radius: 16px;
+    text-align: center;
+    padding:20px;
+}
+
+.grouptag{
+    font-size: 20px;
+    color:white;
+    text-align: center;
+    font-weight: 600;
+}
+.event{
+    font-size: 40px;
+    color:white;
+    text-align: center;
+    font-weight: 600;
+}
+.grouptitle{
+    font-size: 140px;
+    color:white;
+    text-align: center;
+    font-weight: 600;
+}
+.oneline{
+    display: block;
+}
